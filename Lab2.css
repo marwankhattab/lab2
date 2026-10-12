@@ -1,0 +1,51 @@
+.firstdiv {
+
+background-color: black;
+color: white;
+text-align: center;   
+}
+
+.seconddiv {   
+    margin-top: 100px;
+    color: black;
+    text-align: center;   
+}
+
+.thirddiv {
+   margin-top: 100px;
+    color: black;
+    text-align: center;   
+}
+
+.project1 {
+   display: inline-block;
+   padding: 10px;
+    color: black;
+    text-align: center;   
+}
+
+.project2 {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    text-align: center;   
+}
+
+.project3 {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    text-align: center;   
+}
+
+.fourthdiv {
+    margin-top: 100px;
+    color: black;
+    text-align: center;   
+}
+
+.textareas {
+    padding: 10px;
+    color: black;
+    text-align: center;   
+}
